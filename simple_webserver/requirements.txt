@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+psycopg2-binary
+fastapi
+streamlit
+streamlit-extras
+PyPDF2==3.0.1
